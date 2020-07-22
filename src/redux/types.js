@@ -1,0 +1,1 @@
+export const FETCH_POSTS = 'POST/FETCH_POSTS';
